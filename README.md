@@ -1,4 +1,3 @@
-🚀 Machine Learning & Data Science Portfolio
 Welcome to my central repository of Machine Learning projects and research notebooks. This collection showcases my journey as an IBM Certified Data Scientist, covering end-to-end pipelines from data preprocessing and EDA to model deployment. 
 
 
